@@ -1,5 +1,8 @@
 # Frontend Mentor - Social proof section
 
+Deployed on Vercel.
+URL- https://social-proof-section1-dht46smnm-damnitazriel.vercel.app/
+
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
