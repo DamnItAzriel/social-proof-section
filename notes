@@ -1,0 +1,95 @@
+.attribution {
+        font-size: 11px;
+        text-align: center;
+    }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+    }
+    
+    body {
+        font-family: 'Spartan', sans-serif;
+        width: auto;
+        font-size: 15px;
+      }
+      img {
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      float: left;
+      /* padding-right: 10px; */
+      }
+      #div1 {
+        text-align: center;
+    
+      }
+      h1 {
+        padding-top: 50px;
+        color:  hsl(300, 43%, 22%);
+      }
+      #p1 {
+        color: hsl(303, 10%, 53%);
+      }
+      #div2 {
+        color:hsl(300, 43%, 22%) ;
+        text-align: center;
+        overflow: auto;
+      }
+      .p1{
+        color:hsl(300, 43%, 22%) ;
+      }
+    
+      /* #div2 div {
+       
+        background-color: hsl(300, 24%, 96%);
+        padding-top: 5px;
+        
+      } */
+      .divstar {
+        background-color: hsl(300, 24%, 96%);
+        padding-top: 15px;
+        /* padding-bottom: 2px; */
+        /* padding: 5px auto 5px auto; */
+        /* border: 0px; */
+        border-radius: 10px;
+        margin: 15px;
+      }
+      /* div.svg1::before{
+        padding-top: 10px;
+      } */
+      h4 {
+        padding-bottom: 15px;
+      }
+      #d1, #d2,#d3 {
+        color: hsl(0, 0%, 100%);
+        background-color:  hsl(300, 43%, 22%);
+        padding: 25px;
+        margin: 15px;
+        border-radius: 10px;
+        font-size: 11px;
+        line-height: 1.4em;
+        
+      }
+      span#name {
+        font-size: 9px;
+        font-weight: 700;
+      }
+      span#buyer{
+        font-size: 9px;
+        color: hsl(333, 80%, 67%);
+      }
+      #dd1, #dd2, #dd3 {
+        margin-left: 55px;
+        padding-bottom: 15px;
+    }
+
+
+
+
+    .divstar{
+      /* width: 90%; */
+      padding-top: 1em;
+      /* padding-left: 2em;
+      padding-right: 2em; */
+      padding-left: 5%;
+      /* padding-left: 0.5%; */ 
+   }

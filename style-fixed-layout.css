@@ -1,0 +1,202 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    font-family: 'Spartan', sans-serif;
+    /* width: auto; */
+    width: 375px;
+    font-size: 15px;
+  }
+  img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  float: left;
+  /* padding-right: 10px; */
+  }
+  #div1 {
+    text-align: center;
+    background-image: url('images/bg-pattern-top-desktop.svg') top left;
+    /* padding-bottom: 50px; */
+
+  }
+  h1 {
+    padding-top: 50px;
+    color:  hsl(300, 43%, 22%);
+  }
+  #p1 {
+    color: hsl(303, 10%, 53%);
+  }
+  #div2 {
+    color:hsl(300, 43%, 22%) ;
+    text-align: center;
+    overflow: auto;
+  }
+  .p1{
+    color:hsl(300, 43%, 22%) ;
+  }
+
+  /* #div2 div {
+   
+    background-color: hsl(300, 24%, 96%);
+    padding-top: 5px;
+    
+  } */
+  .divstar {
+    background-color: hsl(300, 24%, 96%);
+    padding-top: 15px;
+    /* padding-bottom: 2px; */
+    /* padding: 5px auto 5px auto; */
+    /* border: 0px; */
+    border-radius: 10px;
+    margin: 15px;
+  }
+  /* div.svg1::before{
+    padding-top: 10px;
+  } */
+  h4 {
+    padding-bottom: 15px;
+  }
+  #d1, #d2,#d3 {
+    color: hsl(0, 0%, 100%);
+    background-color:  hsl(300, 43%, 22%);
+    padding: 25px;
+    margin: 15px;
+    border-radius: 10px;
+    font-size: 11px;
+    line-height: 1.4em;
+    
+  }
+  span#name {
+    font-size: 9px;
+    font-weight: 700;
+  }
+  span#buyer{
+    font-size: 9px;
+    color: hsl(333, 80%, 67%);
+  }
+  #dd1, #dd2, #dd3 {
+    margin-left: 55px;
+    padding-bottom: 15px;
+}
+
+@media screen and (min-width: 376px) {
+    .attribution {
+        padding-top: 200px;
+        font-size: 11px;
+        text-align: center;
+    }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+    }
+    body  {
+        /* font */
+        font-family: 'Spartan', sans-serif;
+        text-align: left;
+        width: 1088px;
+        margin: 180px;
+    }
+    #div1 {
+        float: left;
+        padding-right: 85px;
+    }
+    h1 {
+        width: 350px;
+        font-size: 250%;
+        padding-top: 0px;
+        color:hsl(300, 43%, 22%) ;
+        text-align: left;
+        margin-left: 10px;
+        /* font-size: 32px; */
+    }
+    #p1{
+        width: 450px;
+        color: hsl(303, 10%, 53%);
+        text-align: left;
+        margin-left: 10px;
+    }
+    
+    .svg1 {
+        display: inline-block;
+        /* padding-left: 10px; */
+        padding-right: 20px;
+        padding-left: 20px;
+        /* padding-bottom: 5px; */
+    }
+    h4 {
+      display: inline-block;
+      /* padding-right: 10px; */
+      padding:0px 10px 0px 0px;
+    }
+
+    #div3{
+        width: auto;
+    }
+
+    #d1, #d2, #d3 {
+        width: 300px;
+        /* margin: 20px 20px 20px 0px; */
+        margin: 10px;
+        display: inline-block;
+        text-align: left;
+        padding: 20px;
+    }
+     #d2 {
+        position: relative;
+        top: 15px;
+        /* left: 300px; */
+    }
+
+    #d3 {
+            position: relative;
+            top: 30px;
+            /* left: 300px; */
+        }
+
+    img {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        float: left;
+        }
+
+    
+    #div2 {
+        width: 530px;
+        padding-bottom: 20px;
+        overflow: auto;
+    }
+    .divstar {
+      /* width: 525px; */
+      /* width: 450px; */
+      padding: 0px;
+      text-align: left;
+      /* padding: 10px; */
+  } 
+  #divstar1 {
+    width: 450px;
+  }
+    #divstar2 {
+      width: 450px;
+      position: relative;
+      top: 0px;
+      left: 40px;
+      /* overflow: auto; */
+    }
+
+    #divstar3 {
+      width: 450px;
+      position: relative;
+      top: 0px;
+      left: 80px;
+    }
+
+    
+
+}  
+
